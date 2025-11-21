@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01a23d36-d9c9-4646-ab36-d825ae78fa5f" name="Changes" comment="refactor: remove unnecessary comments and documentation from design pattern interfaces and classes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="muhammadjonsaidov" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35dbVIAq3SbIBzccr8rQ3cD14F0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.AdapterTest.executor": "Run",
+    "Gradle.CompositeTest.executor": "Run",
+    "Gradle.CompositeTest.testTurnOffGroup.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.FactoryTest.executor": "Run",
+    "Gradle.ProxyTest.executor": "Run",
+    "Gradle.ProxyTest.testProxyGrantsAccess.executor": "Run",
+    "Gradle.SingletonTest.executor": "Run",
+    "Gradle.SingletonTest.testSingletonInstance.executor": "Run",
+    "Gradle.muhammadjonsaidov [:uz.pdp.Main.main()].executor": "Run",
+    "Gradle.muhammadjonsaidov [build].executor": "Run",
+    "Gradle.muhammadjonsaidov [clean build].executor": "Run",
+    "Gradle.muhammadjonsaidov [clean].executor": "Run",
+    "Gradle.muhammadjonsaidov [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-vcs.post.commit.checks.failed": "Commit contains problems",
+    "Notification.DoNotAsk-vcs.post.commit.checks.failed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "muhammadjonsaidov",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradlew build" />
+      <command value="gradlew clean" />
+      <command value="gradlew clean build" />
+      <command value="./gradlew clean build " />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="muhammadjonsaidov [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.muhammadjonsaidov [clean build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a23d36-d9c9-4646-ab36-d825ae78fa5f" name="Changes" comment="" />
+      <created>1763442918531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763442918531</updated>
+      <workItem from="1763442919849" duration="13740000" />
+      <workItem from="1763708069816" duration="1590000" />
+    </task>
+    <task id="LOCAL-00001" summary="add initial project structure with Gradle configuration and core classes">
+      <option name="closed" value="true" />
+      <created>1763443654168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763443654168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implement design patterns for SmartCity system: add Singleton, Factory, Adapter, Composite, and Proxy patterns with relevant classes and methods">
+      <option name="closed" value="true" />
+      <created>1763457634571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763457634571</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add unit tests for design patterns: implement tests for Adapter, Composite, Factory, Proxy, and Singleton patterns">
+      <option name="closed" value="true" />
+      <created>1763464191225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763464191225</updated>
+    </task>
+    <task id="LOCAL-00004" summary="competed">
+      <option name="closed" value="true" />
+      <created>1763708241749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763708241749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor: remove unnecessary comments and documentation from design pattern interfaces and classes">
+      <option name="closed" value="true" />
+      <created>1763709039374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763709039374</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add initial project structure with Gradle configuration and core classes" />
+    <MESSAGE value="implement design patterns for SmartCity system: add Singleton, Factory, Adapter, Composite, and Proxy patterns with relevant classes and methods" />
+    <MESSAGE value="add unit tests for design patterns: implement tests for Adapter, Composite, Factory, Proxy, and Singleton patterns" />
+    <MESSAGE value="competed" />
+    <MESSAGE value="refactor: remove unnecessary comments and documentation from design pattern interfaces and classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: remove unnecessary comments and documentation from design pattern interfaces and classes" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

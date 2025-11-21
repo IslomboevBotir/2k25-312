@@ -1,0 +1,16 @@
+#Turning ON light group: Test Group
+TEST Light 1 turned ON.
+TEST Light 2 turned ON.
+#Turning ON light group: Test Group
+TEST Light 1 turned ON.
+TEST Light 2 turned ON.
+$Turning OFF light group: Test Group
+TEST Light 1 turned OFF.
+TEST Light 2 turned OFF.
+	&Authentication failed! Access denied.
+	
+Authenticated successful.
+	
+#Security system has been DISARMED.
+	
+,DEBUG: The 'isArmed' variable is now: false

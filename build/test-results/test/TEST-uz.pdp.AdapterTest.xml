@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.pdp.AdapterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-21T07:15:26.588Z" hostname="rhaen" time="0.008">
+  <properties/>
+  <testcase name="Test weather adapter correctly converts Fahrenheit to Celsius (Adapter Pattern)" classname="uz.pdp.AdapterTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.pdp.ProxyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-21T07:15:26.610Z" hostname="rhaen" time="0.003">
+  <properties/>
+  <testcase name="Test security proxy denies access with wrong password" classname="uz.pdp.ProxyTest" time="0.001"/>
+  <testcase name="Test security proxy grants access with correct password" classname="uz.pdp.ProxyTest" time="0.002"/>
+  <system-out><![CDATA[Authentication failed! Access denied.
+Authenticated successful.
+Security system has been DISARMED.
+DEBUG: The 'isArmed' variable is now: false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

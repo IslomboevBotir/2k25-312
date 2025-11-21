@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.pdp.CompositeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-21T07:15:26.600Z" hostname="rhaen" time="0.007">
+  <properties/>
+  <testcase name="Test turning on a group turns on all individual lights (Composite Pattern)" classname="uz.pdp.CompositeTest" time="0.005"/>
+  <testcase name="Test turning off a group turns off all individual lights (Composite Pattern)" classname="uz.pdp.CompositeTest" time="0.002"/>
+  <system-out><![CDATA[Turning ON light group: Test Group
+TEST Light 1 turned ON.
+TEST Light 2 turned ON.
+Turning ON light group: Test Group
+TEST Light 1 turned ON.
+TEST Light 2 turned ON.
+Turning OFF light group: Test Group
+TEST Light 1 turned OFF.
+TEST Light 2 turned OFF.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
