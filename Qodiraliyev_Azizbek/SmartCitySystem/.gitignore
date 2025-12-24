@@ -47,3 +47,4 @@ static/
 # ======================
 .pytest_cache/
 .cache/
+smartcity_env
