@@ -1,3 +1,5 @@
+.idea
+__pycache__
 # Guide файл не пушим
 GUIDE.md
 
